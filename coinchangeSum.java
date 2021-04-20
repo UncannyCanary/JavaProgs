@@ -1,3 +1,4 @@
+package JavaProgs;
 class coinchangeSum {
     public static void main(String[] args) {
         System.out.println(change(5, new int[]{1,2,3}));

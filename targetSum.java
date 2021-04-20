@@ -1,3 +1,4 @@
+package JavaProgs;
 class targetSum {
     public static void main(String[] args) {
         int arr[] = new int[]{1,1,1,1,1};

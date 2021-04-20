@@ -1,3 +1,4 @@
+package JavaProgs;
 class longestPalSubstring {
     public static void main(String[] args) {
         System.out.println(longestPalindrome("ac"));

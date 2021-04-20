@@ -1,3 +1,4 @@
+package JavaProgs;
 class printLCS {
     public static void main(String[] args) {
         System.out.println(findLCS("AGGTAB", "GXTXAYB"));

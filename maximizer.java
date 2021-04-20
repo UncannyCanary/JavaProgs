@@ -1,3 +1,4 @@
+package JavaProgs;
 import java.util.Comparator;
 
 interface OurComparable {

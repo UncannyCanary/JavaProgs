@@ -1,4 +1,4 @@
-
+package JavaProgs;
 class printSCS {
     public static void main(String[] args) {
         System.out.println(shortestCommonSupersequence("abac", "cab"));
